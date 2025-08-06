@@ -14,6 +14,11 @@
 </div>
   
   ##
+
+<div>
+  <h3> Projetos em Destaque:</h3>
+  <a href="https://marisabarros11.github.io/E-commerce_Meowisa/">E-Comerce</a>
+</div>
  
 <div> 
   <a href = "mailto:marisa.franca.barros@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
