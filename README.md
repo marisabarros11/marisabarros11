@@ -17,7 +17,7 @@
 
 <div>
   <h3> Projetos em Destaque:</h3>
-  <a href="https://marisabarros11.github.io/E-commerce_Meowisa/">E-Comerce</a>
+  <a href="https://marisabarros11.github.io/E-commerce_Meowisa/">E-Commerce</a>
 </div>
 
 <br><br>
