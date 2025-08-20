@@ -1,9 +1,6 @@
 ## Oiiii! Hi there! Eu sou a Marisa :)
 
-<div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marisabarros11&show_icons=true&theme=synthwave)](https://github.com/marisabarros11/github-readme-stats)
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marisa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
