@@ -16,6 +16,13 @@
   <h3> Projetos em Destaque:</h3>
   <a href="https://marisabarros11.github.io/E-commerce_Meowisa/">E-Commerce</a>
 </div>
+<br><br>
+<div>
+  Este projeto foi realizado em parceria com o time do STI FFLCH, empregando o framework Laravel.:
+  <br>
+  <a href="https://estagios.fflch.usp.br/">Página de vagas de estágio da FFLCH</a>
+</div>
+
 
 <br><br>
 
