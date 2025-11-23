@@ -23,6 +23,13 @@
   <a href="https://estagios.fflch.usp.br/">Página de vagas de estágio da FFLCH</a>
 </div>
 
+<br><br>
+<div>
+  Repositório com estudos recentes na área de dados:
+  <br>
+  <a href="https://github.com/marisabarros11/Formacao-Dados_ADA">Estudos de Dados</a>
+</div>
+
 
 <br><br>
 
